@@ -3,7 +3,7 @@
 
 #include "quantum.h"
 
-#define KEYMAP( \
+#define LAYOUT(                                                                       \
 	      K001, K002, K003,       K005,       K007, K008,       K010,       K012,       K014,       \
 	      K101, K102, K103, K104, K105, K106, K107, K108, K109,                   K113, K114, K115, \
 	      K201, K202, K203, K204, K205, K206, K207, K208,                                           \
