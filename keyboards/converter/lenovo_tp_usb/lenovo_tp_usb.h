@@ -25,7 +25,7 @@
      K74,    K41, K44, K43, K45, K05, K02, K42, K48, K46, K47, K07, K5E,         \
      K70,       K51, K54, K53, K55, K65, K62, K52, K58, K56, K67, K50,           \
      K4C, K19,  K7B, K0A, K6E,                     K6A, K4F, K59, K5F,K0C, K6F,  \
-    K6C, K6D, K6B, 
+    K6C, K6D, K6B \
 ) { \
     { KC_NO, K01,   K02,   K03,   KC_NO, K05,   KC_NO, K07,   K08,   KC_NO, K0A,   KC_NO, K0C,   KC_NO, K0E,   KC_NO }, \
     { KC_NO, K11,   K12,   K13,   K14,   K15,   K16,   K17,   K18,   K19,   KC_NO, KC_NO, KC_NO, K1D,   K1E,   K1F   }, \
