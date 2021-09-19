@@ -1,4 +1,4 @@
-/* Copyright 2021 REPLACE_WITH_YOUR_NAME
+/* Copyright 2021 Frank Oltmanns
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -39,8 +39,8 @@
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
  */
-#define MATRIX_ROW_PINS { B0, B1, B2, B3, B4, B5, D5, D6 }
-#define MATRIX_COL_PINS { B6, B7, C0, C1, C2, C3, C4, C5, C6, C7, D0, D1, D2, D3, D4, D7 }
+#define MATRIX_ROW_PINS { B16, B17, D0, A12, A13, D7, D4, D2 }
+#define MATRIX_COL_PINS { D3, C3, C4, C6, C7, D1, C0, B0, B1, B3, B2, D5, D6, C1, C2, A5 }
 
 #define DIODE_DIRECTION COL2ROW
 
